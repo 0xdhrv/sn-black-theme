@@ -1,0 +1,12 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "pw.dhrv.sn-black-theme",
+  "name": "Black",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "0.0.1",
+  "description": "Black Theme for Standard Notes // Dhruv Suthar <hi@dhrv.pw>",
+}
