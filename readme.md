@@ -25,7 +25,7 @@ metatype: json
   "area": "themes",
   "version": "0.0.1",
   "description": "Black Theme for Standard Notes // Dhruv Suthar <hi@dhrv.pw>",
-  "url": "https://cdn.jsdelivr.net/gh/0xdhrv/sn-black-theme@main/dist/dist.css",
+  "url": "https://cdn.jsdelivr.net/gh/0xdhrv/sn-black-theme/dist/dist.css",
   "download_url": "https://github.com/0xdhrv/sn-black-theme/archive/refs/heads/main.zip",
   "latest_url": "https://listed.to/p/1OiwmD0R7J",
   "marketing_url": "https://github.com/0xdhrv/sn-black-theme"
