@@ -1,10 +1,10 @@
 :root {
-  --sn-stylekit-sans-serif-font: "Inter", sans-serif !important;
-  --sn-stylekit-monospace-font: "JetBrains Mono", monospace !important;
-  --sn-stylekit-accessory-tint-color-1: #E0E0E0ff;
-  --sn-stylekit-neutral-color: #E0E0E0ff;
+  --sn-stylekit-sans-serif-font: 'JetBrains Mono', monospace !important;
+  --sn-stylekit-monospace-font: 'JetBrains Mono', monospace !important;
+  --sn-stylekit-accessory-tint-color-1: #e0e0e0ff;
+  --sn-stylekit-neutral-color: #e0e0e0ff;
   --sn-stylekit-neutral-contrast-color: #ffffffff;
-  --sn-stylekit-info-color: #404040;
+  --sn-stylekit-info-color: #1466f5;
   --sn-stylekit-info-contrast-color: #ffffffff;
   --sn-stylekit-success-color: #10d964;
   --sn-stylekit-success-contrast-color: #ffffffff;
@@ -30,11 +30,25 @@
   --sn-stylekit-paragraph-text-color: #ffffffff;
   --sn-stylekit-input-placeholder-color: #808080;
   --sn-stylekit-input-border-color: #272729;
-  --sn-stylekit-scrollbar-thumb-color: #E0E0E0ff;
-  --sn-stylekit-scrollbar-track-border-color: #E0E0E0ff;
-  --sn-stylekit-passive-color-0: #A0A0A0;
+  --sn-stylekit-scrollbar-thumb-color: #e0e0e0ff;
+  --sn-stylekit-scrollbar-track-border-color: #e0e0e0ff;
+  --sn-stylekit-passive-color-0: #a0a0a0;
   --sn-stylekit-passive-color-3: #202020;
   --sn-stylekit-passive-color-4: #404040;
   --sn-stylekit-passive-color-4-opacity-variant: #404040;
   --sn-stylekit-passive-color-5: #303030;
+}
+
+html,
+body,
+.editor-content .editable,
+#editor-content .editable,
+.editable,
+.font-editor,
+.editor-content,
+#note-text-editor,
+textarea,
+.CodeMirror,
+code {
+  font-family: 'JetBrains Mono', monospace !important;
 }
