@@ -1,5 +1,7 @@
 # black · · ·
 
+WIP - Currently Unpublished
+
 > Dhruv's Black Theme for Standard Notes
 
 Theme for [Standard Notes](https://standardnotes.org/). Based on colors from the [Greek](https://greek.dhrv.pw/).
